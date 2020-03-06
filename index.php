@@ -188,20 +188,22 @@
       <!-- About Section Content -->
       <div class="row">
         <div class="col-lg-4 ml-auto">
-          <p class="lead">Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization.</p>
+          <p class="lead">What is Lorem Ipsum? </br>
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
         </div>
         <div class="col-lg-4 mr-auto">
-          <p class="lead">You can create your own custom avatar for the masthead, change the icon in the dividers, and add your email address to the contact form to make it fully functional!</p>
+          <p class="lead">Why do we use it? </br>
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
         </div>
       </div>
 
       <!-- About Section Button -->
-      <div class="text-center mt-4">
+      <!-- <div class="text-center mt-4">
         <a class="btn btn-xl btn-outline-light" href="https://startbootstrap.com/themes/freelancer/">
           <i class="fas fa-download mr-2"></i>
           Free Download!
         </a>
-      </div>
+      </div> -->
 
     </div>
   </section>
@@ -281,7 +283,7 @@
 
         <!-- Footer Social Icons -->
         <div class="col-lg-4 mb-5 mb-lg-0">
-          <h4 class="text-uppercase mb-4">Around the Web</h4>
+          <h4 class="text-uppercase mb-4">Find me on Social media</h4>
           <a class="btn btn-outline-light btn-social mx-1" href="https://www.facebook.com/Fachrizaramanda" target="blank">
             <i class="fab fa-fw fa-facebook-f"></i>
           </a>
@@ -299,9 +301,9 @@
 
         <!-- Footer About Text -->
         <div class="col-lg-4">
-          <h4 class="text-uppercase mb-4">About Freelancer</h4>
-          <p class="lead mb-0">Freelance is a free to use, MIT licensed Bootstrap theme created by
-            <a href="http://startbootstrap.com">Start Bootstrap</a>.</p>
+          <h4 class="text-uppercase mb-4">About Me</h4>
+          <p class="lead mb-0">Hi guys. I'm Fachriza Ramanda.
+            <a href="https://fachriza.com">fachriza.com</a>.</p>
         </div>
 
       </div>
